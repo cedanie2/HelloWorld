@@ -9,6 +9,7 @@ namespace HelloWorld
             // Pause to display Hello World!
             Console.WriteLine("Press any key to continue...");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Make a change");
             Console.ReadKey(true);
         }
     }
